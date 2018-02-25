@@ -6,4 +6,12 @@
     android:layout_height="match_parent"
     tools:context="com.codeelf.LoginActivity">
 
+    <Button
+        android:id="@+id/test_button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="register"
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="111dp"
+        tools:ignore="MissingConstraints" />
 </android.support.constraint.ConstraintLayout>
